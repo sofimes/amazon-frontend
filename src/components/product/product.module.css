@@ -44,7 +44,7 @@
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   max-width: 1450px;
   margin: 100px auto;
-  gap: 50px;
+  gap: 10px;
   justify-items: center;
 }
 .products_container section {
