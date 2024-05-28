@@ -15,8 +15,8 @@ export const CategoryImage = [
     imgLink: "https://m.media-amazon.com/images/I/61BjmkGVrJS._AC_UL320_.jpg",
   },
   {
-    title: "Home & Kitchen",
-    name: "home and kitchen",
-    imgLink: "https://m.media-amazon.com/images/I/71ilnjzQ9QL._AC_UL320_.jpg",
+    title: "jewelery",
+    name: "jewelery",
+    imgLink: "https://m.media-amazon.com/images/I/71r7eWuCsaL._AC_SY535_.jpg",
   },
 ];
